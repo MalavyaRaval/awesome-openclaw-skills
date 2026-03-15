@@ -523,7 +523,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
 
-- [cleanup-reporter](https://github.com/MalavyaRaval/cleanup-reporter) - Scan your machine for large directories, duplicate files, and stale resume files.
+- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan your machine for large directories, duplicate files, and stale resume files.
 > **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
 
@@ -1305,5 +1305,3 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
-
-- [cleanup-reporter](https://github.com/MalavyaRaval/cleanup-reporter) - Scan your machine for large directories, duplicate files, and stale resume files.

@@ -184,3 +184,4 @@
 - [wind-site](https://github.com/openclaw/skills/tree/main/skills/qrost/wind-site/SKILL.md) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc/SKILL.md) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://github.com/openclaw/skills/tree/main/skills/dingkwang/xiaohongshu-automation/SKILL.md) - A complete automation suite for Xiaohongshu (Little Red Book)
+- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan your machine for large directories, duplicate files, and stale resume files.
