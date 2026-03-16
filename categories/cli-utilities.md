@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**180 skills**
+**181 skills**
 
 - [13-day-sprint-method](https://github.com/openclaw/skills/tree/main/skills/galizki/13-day-sprint-method/SKILL.md) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision/SKILL.md) - A-share short-term trading decision skill for 1-5 day horizon.
@@ -40,6 +40,7 @@
 - [claude-relay](https://github.com/openclaw/skills/tree/main/skills/artwalker/claude-relay/SKILL.md) - Relay operator for Claude Code via tmux across multiple projects.
 - [clawprint-verify](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/clawprint-verify/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges.
 - [clean-pytest](https://github.com/openclaw/skills/tree/main/skills/marcoracer/clean-pytest/SKILL.md) - Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns.
+- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan for large directories, duplicate files, and stale resume files.
 - [cli](https://github.com/openclaw/skills/tree/main/skills/mondilo1) - CLI reference for inspecting and checking skill eligibility.
 - [client-discovery](https://github.com/openclaw/skills/tree/main/skills/staybased/client-discovery/SKILL.md) - Run discovery conversations that qualify prospects, diagnose real problems, and position your solution.
 - [client-manager](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/client-manager/SKILL.md) - Track clients, projects, invoices, payments, earnings, leads, and time for freelancers.
@@ -184,4 +185,3 @@
 - [wind-site](https://github.com/openclaw/skills/tree/main/skills/qrost/wind-site/SKILL.md) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc/SKILL.md) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://github.com/openclaw/skills/tree/main/skills/dingkwang/xiaohongshu-automation/SKILL.md) - A complete automation suite for Xiaohongshu (Little Red Book)
-- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan your machine for large directories, duplicate files, and stale resume files.
