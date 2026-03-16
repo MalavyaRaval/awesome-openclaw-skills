@@ -40,6 +40,7 @@
 - [claude-relay](https://github.com/openclaw/skills/tree/main/skills/artwalker/claude-relay/SKILL.md) - Relay operator for Claude Code via tmux across multiple projects.
 - [clawprint-verify](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/clawprint-verify/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges.
 - [clean-pytest](https://github.com/openclaw/skills/tree/main/skills/marcoracer/clean-pytest/SKILL.md) - Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns.
+- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan for large directories, duplicate files, and stale resume files.
 - [cli](https://github.com/openclaw/skills/tree/main/skills/mondilo1) - CLI reference for inspecting and checking skill eligibility.
 - [client-discovery](https://github.com/openclaw/skills/tree/main/skills/staybased/client-discovery/SKILL.md) - Run discovery conversations that qualify prospects, diagnose real problems, and position your solution.
 - [client-manager](https://github.com/openclaw/skills/tree/main/skills/mkpareek0315/client-manager/SKILL.md) - Track clients, projects, invoices, payments, earnings, leads, and time for freelancers.

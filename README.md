@@ -522,6 +522,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [camsnap](https://github.com/openclaw/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
 - [canvas-lms](https://github.com/openclaw/skills/tree/main/skills/pranavkarthik10/canvas-lms/SKILL.md) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai/SKILL.md) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
+- [cleanup-reporter](https://github.com/openclaw/skills/tree/main/skills/MalavyaRaval/cleanup-reporter/SKILL.md) - Scan for large directories, duplicate files, and stale resume files.
 
 > **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
