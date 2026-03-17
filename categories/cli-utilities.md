@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**180 skills**
+**181 skills**
 
 - [13-day-sprint-method](https://github.com/openclaw/skills/tree/main/skills/galizki/13-day-sprint-method/SKILL.md) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision/SKILL.md) - A-share short-term trading decision skill for 1-5 day horizon.
@@ -185,3 +185,4 @@
 - [wind-site](https://github.com/openclaw/skills/tree/main/skills/qrost/wind-site/SKILL.md) - Wind rose, wind speed/direction at a site; supports site and urban wind assessment (data only; detailed CFD.
 - [wol-sleep-pc](https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc/SKILL.md) - Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC.
 - [xiaohongshu-automation](https://github.com/openclaw/skills/tree/main/skills/dingkwang/xiaohongshu-automation/SKILL.md) - A complete automation suite for Xiaohongshu (Little Red Book)
+- **181 skills**
